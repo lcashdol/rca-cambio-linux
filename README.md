@@ -1,5 +1,7 @@
 # Linux on the RCA Cambio 10.1 Tablet
 
+Model #W101V2
+
 ![alt text](https://github.com/lcashdol/rca-cambio-linux/raw/master/images/IMG_3982.jpg "Picture of RCA Cambio tablet")
 
 # Distro support
