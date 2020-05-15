@@ -55,7 +55,7 @@ GRUB_CMDLINE_LINUX_DEFAULT="video=efifb fbcon=rotate:1"
 
 I also added
 
-# cat /etc/xdg/autostart/screen.desktop
+$ cat /etc/xdg/autostart/screen.desktop
 [Desktop Entry]
 Name=Name
 Exec=/bin/bash -c "xrandr -o 3"
