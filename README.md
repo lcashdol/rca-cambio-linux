@@ -49,6 +49,9 @@ Linux Kernel 4.11 and higher is needed for DRM video acceleration.
 
 To turn off screen rotation there are simple instructions here https://askubuntu.com/questions/1035209/how-to-turn-off-screen-rotation-in-ubuntu-18-04-lts and here https://askubuntu.com/questions/1083870/automatic-screen-rotation-problem-on-ubuntu-18-04
 
+I edited /etc/default/grub to rotate the screen during boot and remove the quiet and splash screen.
+
+GRUB_CMDLINE_LINUX_DEFAULT="video=efifb fbcon=rotate:1"
 
 # Similar pages
 
