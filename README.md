@@ -1,6 +1,6 @@
 # Linux on the RCA Cambio 10.1 Tablet
 
-![alt text](https://github.com/lcashdol/rca-cambio-linux/raw/master/images/rca_cambio.jpg "Picture of RCA Cambio tablet")
+![alt text](https://github.com/lcashdol/rca-cambio-linux/raw/master/images/IMG_3982.jpg "Picture of RCA Cambio tablet")
 
 # Distro support
 
