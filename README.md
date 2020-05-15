@@ -53,6 +53,16 @@ I edited /etc/default/grub to rotate the screen during boot and remove the quiet
 
 GRUB_CMDLINE_LINUX_DEFAULT="video=efifb fbcon=rotate:1"
 
+I also added
+
+# cat /etc/xdg/autostart/screen.desktop
+[Desktop Entry]
+Name=Name
+Exec=/bin/bash -c "xrandr -o 3"
+Type=Application
+
+To roate the X window on login.
+
 # Similar pages
 
 - [Install Linux on Nextbook Flexx Baytrail tablet](https://github.com/burzumishi/linux-baytrail-flexx10)
