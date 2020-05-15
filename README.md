@@ -11,7 +11,7 @@ bit firmware on an amd64 Atom CPU.
 
 - Debian (using [mixed mode](https://cdimage.debian.org/mirror/cdimage/release/9.0.0/multi-arch/iso-cd/ "Mixed mode ISO"))
 - Ubuntu (using Linuxium's [isorespin.sh](http://linuxiumcomau.blogspot.com.au/2017/06/customizing-ubuntu-isos-documentation.html))
-
+`
 # ./isorespin.sh -i ubuntu-18.04.4-desktop-amd64.iso --atom
 Extracting ISO ...
 Parallel unsquashfs: Using 8 processors
@@ -137,7 +137,7 @@ Writing to 'stdio:../../linuxium-atom-ubuntu-18.04.4-desktop-amd64.iso' complete
 isorespin.sh: Respun ISO created as 'linuxium-atom-ubuntu-18.04.4-desktop-amd64.iso' ... see logfile 'isorespin.log' for details.
 
 
-# dd if=linuxium-atom-ubuntu-18.04.4-desktop-amd64.iso of=/dev/sdc bs=4M
+# dd if=linuxium-atom-ubuntu-18.04.4-desktop-amd64.iso of=/dev/sdc bs=4M`
 
 
 - Void (needs custom ISO)
