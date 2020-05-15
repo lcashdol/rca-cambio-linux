@@ -44,6 +44,9 @@ I needed to set `vga=normal` to disable the frame buffer on boot.
 
 Linux Kernel 4.11 and higher is needed for DRM video acceleration.
 
+To turn off screen rotation there are simple instructions here https://askubuntu.com/questions/1035209/how-to-turn-off-screen-rotation-in-ubuntu-18-04-lts
+
+
 # Similar pages
 
 - [Install Linux on Nextbook Flexx Baytrail tablet](https://github.com/burzumishi/linux-baytrail-flexx10)
