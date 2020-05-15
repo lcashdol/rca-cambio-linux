@@ -32,6 +32,7 @@ dd if=linuxium-atom-ubuntu-18.04.4-desktop-amd64.iso of=/dev/sdc bs=4M
 - 00:14.0 USB controller: Intel Corporation Atom Processor Z36xxx/Z37xxx, Celeron N2000 Series USB xHCI (rev 0f)
 - 00:1a.0 Encryption controller: Intel Corporation Atom Processor Z36xxx/Z37xxx Series Trusted Execution Engine (rev 0f)
 - 00:1f.0 ISA bridge: Intel Corporation Atom Processor Z36xxx/Z37xxx Series Power Control Unit (rev 0f)
+- RTL8723BS Realtek Wireless Chip https://www.realtek.com/en/products/communications-network-ics/item/rtl8723bs
 
 Linux larry-W101-V2-TH2 5.3.0-51-generic #44~18.04.2-Ubuntu SMP Thu Apr 23 14:27:18 UTC 2020 x86_64 x86_64 x86_64 GNU/Linux
 
